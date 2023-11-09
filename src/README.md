@@ -50,7 +50,7 @@
 
 **🌐 Проект на GitHub Pages:**
 
-- [gh-pages]()
+- [gh-pages](https://newet7.github.io/MESTOgramm/)
 
 ---
 
