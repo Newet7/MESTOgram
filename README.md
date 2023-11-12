@@ -48,7 +48,7 @@
 
 **🌐 Проект на GitHub Pages:**
 
-- [gh-pages](https://newet7.github.io/MESTOgramm/)
+- [gh-pages](https://newet7.github.io/MESTOgram/)
 
 
 ---
